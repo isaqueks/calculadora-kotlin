@@ -3,7 +3,7 @@
 build
 gradle
 build.gradle.kts
-gradle-properties
+gradle.properties
 gradlew
 gradlew.bat
 settings.gradle.kts
